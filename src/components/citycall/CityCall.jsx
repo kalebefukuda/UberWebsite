@@ -3,8 +3,8 @@ import React from 'react'
 const CityCall = () => {
   return (
     <div>
-        <section className='w-full py-8 bg-city bg-no-repeat bg-cover bg-right px-2'>  
-            <div className='w-full max-w-7xl mx-auto flex flex-col gap-5'>
+        <section className='w-full py-11  bg-city bg-no-repeat bg-cover bg-right px-2'>  
+            <div className='w-full max-w-7xl mx-auto flex flex-col gap-5 text-left'>
                 <h1 className='text-3xl lg:text-4xl font-bold w-full max-w-2xl'>
                     A plataforma Uber que você conhece, reinventada para empresas
                 </h1>

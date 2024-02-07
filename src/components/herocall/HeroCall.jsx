@@ -1,5 +1,4 @@
 import React from 'react'
-import heroImagem from '../../assets/bguber.png'
 import { Signal, CarFront, KeySquare } from 'lucide-react';
 
 const HeroCall = () => {
