@@ -1,4 +1,5 @@
 import './App.css';
+import CityCall from './components/citycall/CityCall';
 import Header from './components/header/Header'
 import HeroCall from './components/herocall/HeroCall';
 
@@ -8,6 +9,7 @@ function App() {
       <Header />
       <div>
         <HeroCall />
+        <CityCall />
       </div>
     </div>
   );
