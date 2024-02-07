@@ -4,7 +4,12 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage:{
+        'uber':"url('/src/assets/bguber.png')",
+        'city':"url('/src/assets/bg-city.png')",
+      }
+    },
   },
   plugins: [],
 }
