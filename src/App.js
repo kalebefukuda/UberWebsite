@@ -6,6 +6,7 @@ import Blog from './components/blog/Blog';
 import About from './components/about/About';
 import Download from './components/download/Download';
 import Sign from './components/sign/Sign';
+import Footer from './components/footer/Footer';
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
         <About />
         <Download />
         <Sign />
+        <Footer />
       </div>
     </div>
   );
