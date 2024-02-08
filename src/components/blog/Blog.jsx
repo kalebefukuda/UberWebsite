@@ -12,8 +12,8 @@ const Blog = () => {
             <div className='w-full flex flex-col sm:flex-row gap-4'>
                 <a href="#" className='flex-1'>
                     <article className='flex flex-col gap-2'>
-                        <img src={post1} alt="Imagem do post 1" className='opacity-80 hover:scale-95 hover:opacity-100 duration-200' />
-                        <h2 className='font-bold text-lg'>
+                        <img src={post1} alt="Imagem do post 1" className='opacity-80 hover:scale-[0.97] hover:opacity-100 duration-200' />
+                        <h2 className='font-bold text-[1.2rem]'>
                             Sua segurança é a nossa prioridade
                         </h2>
                         <p className='text-stone-800'>Com todos os recursos de segurança e todas as normas do nosso Código da Comunidade Uber,
@@ -24,8 +24,8 @@ const Blog = () => {
                 </a>
                 <a href="#" className='flex-1'>
                     <article className='flex flex-col gap-2'>
-                        <img src={post2} alt="Imagem do post 2" className='opacity-80 hover:scale-95 hover:opacity-100 duration-200' />
-                        <h2 className='font-bold text-lg'>
+                        <img src={post2} alt="Imagem do post 2" className='opacity-80 hover:scale-[0.97] hover:opacity-100 duration-200' />
+                        <h2 className='font-bold text-[1.2rem]'>
                             Colocamos mais de 10.000 cidades em movimento
                         </h2>
                         <p className='text-stone-800'>
