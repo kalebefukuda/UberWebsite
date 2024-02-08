@@ -4,8 +4,8 @@ import post2 from '../../assets/post2.png'
 
 const Blog = () => {
   return (
-    <section className='w-full px-2 py-8 sm:py-11'>
-        <div className='w-full flex flex-col max-w-7xl max-auto'>
+    <section className='w-full px-2 py-8 sm:py-11 flex justify-center'>
+        <div className='w-full flex flex-col max-w-7xl text-left'>
             <h1 className="font-bold text-2xl max-w-2xl sm:text-4xl mb-6">
                 Preocupados com a sua segurança, onde quer que você vá
             </h1>
