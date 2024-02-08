@@ -4,6 +4,8 @@ import Header from './components/header/Header'
 import HeroCall from './components/herocall/HeroCall';
 import Blog from './components/blog/Blog';
 import About from './components/about/About';
+import Download from './components/download/Download';
+
 
 function App() {
   return (
@@ -14,6 +16,7 @@ function App() {
         <CityCall />
         <Blog />
         <About />
+        <Download />
       </div>
     </div>
   );
