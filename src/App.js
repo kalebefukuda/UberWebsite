@@ -5,6 +5,7 @@ import HeroCall from './components/herocall/HeroCall';
 import Blog from './components/blog/Blog';
 import About from './components/about/About';
 import Download from './components/download/Download';
+import Sign from './components/sign/Sign';
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <Blog />
         <About />
         <Download />
+        <Sign />
       </div>
     </div>
   );
