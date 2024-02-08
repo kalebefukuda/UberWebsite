@@ -25,7 +25,7 @@ const HeroCall = () => {
                     </section>
                 </div>
 
-                <div className='flex flex-col gap-5 px-4 my-4'>
+                <div className='flex flex-col gap-5 px-4 my-4 text-left'>
                     <h1 className='font-bold text-4xl max-w-sm'>Assuma o comando e ganhe</h1>
                     <p className='max-w-sm'> Dirija na plataforma com a maior rede de usuários ativos</p>
                     <button className="bg-black self-start text-white px-6 py-2 rounded-lg font-medium hover:scale-5 duration-200">
