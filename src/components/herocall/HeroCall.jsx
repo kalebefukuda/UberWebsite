@@ -32,7 +32,9 @@ const HeroCall = () => {
                         Cadastre-se para digirir</button>
 
                     <a href="#"
-                    className='text-gray-700 mt-7 mb-4 border-b-2 self-start hover:border-gray-700 duration-200'>Saiba mais sobre como dirigir e fazer entregas</a>
+                    className='text-gray-700 mt-7 mb-4 border-b-2 self-start hover:border-gray-700 duration-200'>
+                        Saiba mais sobre como dirigir e fazer entregas
+                        </a>
                 </div>
             </section>
         </div>
