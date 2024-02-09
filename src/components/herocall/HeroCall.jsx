@@ -8,7 +8,7 @@ const HeroCall = () => {
         <div className='w-full max-w-7xl mx-auto flex'>
             <section className='bg-white max-w-lg w-full md:mx-2 md:my-2'>
                 <div className='bg-slate-100 flex w-full items-center justify-between'>
-                    <section className='flex-1 pt-3 flex flex-col items-center justify-center gap-2'>
+                    <section className='flex-1 pt-3 flex flex-col items-center justify-center gap-2 '>
                         <Signal size={36} strokeWidth={2.5} />
                         <span className='text-center font-medium'>Faça viagens ou entregas</span>
                         <span className='w-full bg-black h-[1.5px]'></span>
