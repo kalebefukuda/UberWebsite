@@ -19,7 +19,7 @@ Projeto desenvolvido para fins de aprendizado <br/>
 <br>
 
 
-![alt text](image-2.png)
+![alt text](/uber/src/assets/image-2.png)
 
 
 ## 🚀 Tecnologias
